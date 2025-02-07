@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Qualquer frase impactante para ter como analisar o resultado!</h1>
+    return <h1>A vida é 10% o que acontece a você e 90% como você reage a isso.</h1>    
 }
 
 export default Home;
